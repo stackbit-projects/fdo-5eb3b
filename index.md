@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/polite-europa.png
+    image: images/fairdo.png
     image_alt: App preview
     title: Turning Data Into Knowledge
     content: >
