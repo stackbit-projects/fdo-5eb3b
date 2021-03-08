@@ -6,9 +6,14 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Turning Data Into Knowledge
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      AIR Digital Objects (FDO) bind all critical information about an entity in
+      one place and create a new kind of actionable, meaningful and technology
+      independent object that pervades every aspect of life today:
+
+
+
+      **A technical essence of a “thing” in cyberspace**.
     actions:
       - label: Learn More
         url: /features
