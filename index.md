@@ -7,10 +7,9 @@ sections:
     image_alt: App preview
     title: Turning Data Into Knowledge
     content: >
-      AIR Digital Objects (FDO) bind all critical information about an entity in
-      one place and create a new kind of actionable, meaningful and technology
-      independent object that pervades every aspect of life today:
-
+      FAIR Digital Objects (FDO) bind all critical information about an entity
+      in one place and create a new kind of actionable, meaningful and
+      technology independent object that pervades every aspect of life today:
 
 
       **A technical essence of a “thing” in cyberspace**.
